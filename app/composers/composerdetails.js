@@ -1,37 +1,44 @@
-export default function ComposerDetails({composer}) {
-
-    return (
-            <div className="min-h-screen bg-gray-100 p-6">
-              <div className="max-w-4xl mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
-                <div className="md:flex">
-                  <div className="md:flex-shrink-0">
-                    <img className="h-48 w-full object-cover md:h-full md:w-48" src={composer.imageUrl2} alt={composer.name} />
-                  </div>
-                  <div className="p-8">
-                    <div className="uppercase tracking-wide text-sm text-indigo-500 font-semibold">Composer</div>
-                    <h1 className="block mt-1 text-lg leading-tight font-medium text-black">{composer.name}</h1>
-                    <p className="mt-2 text-gray-500">
-                      {composer.detailedBio}
-                    </p>
-                    <div className="mt-4">
-                      <h2 className="text-xl font-semibold">Famous Compositions</h2>
-                      <ul className="list-disc list-inside ml-4 mt-2 text-gray-500">
-                        <li>Composition 1</li>
-                        <li>Composition 2</li>
-                        <li>Composition 3</li>
-                        <li>Composition 4</li>
-                      </ul>
-                    </div>
-                    <div className="mt-4">
-                      <h2 className="text-xl font-semibold">Listen on YouTube</h2>
-                      <div className="flex flex-col mt-2 space-y-2">
-                        <a href="https://www.youtube.com/watch?v=EGWg4YpS1ls" className="text-indigo-600 hover:underline">Video 1</a>
-                        <a href="https://www.youtube.com/watch?v=hXKqlokiFzs" className="text-indigo-600 hover:underline">Video 2</a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          );
+export default function ComposerDetails({ composer }) {
+  const fmt_birthDate = composer.birthDate.substring(0, 4);
+  const fmt_deathDate = composer.deathDate ? composer.deathDate.substring(0, 4) : "present";
+  return (
+    <div className="min-h-screen bg-gray-100 py-12 flex justify-center">
+      <div className="max-w-5xl bg-white rounded-3xl shadow-md overflow-hidden p-12 flex flex-col md:flex-row">
+        <div className="w-full md:w-2/5 flex flex-col items-center justify-center p-8">
+          <div className="h-2/3 overflow-hidden rounded-3xl shadow-md">
+            <img
+              className="w-full h-full object-fit: cover rounded-3xl"
+              src={composer.imageUrl2}
+              alt={composer.name}
+            />
+          </div>
+          <div className="mt-4 text-center md:text-left">
+            <h2 className="text-3xl font-bold text-black mb-2">
+              {composer.name}
+            </h2>
+            <p className="text-gray-500 text-md mb-4">
+              {`${fmt_birthDate} - ${fmt_deathDate}`}
+            </p>
+            <div className="bg-gray-200 h-0.5 w-full mb-4"></div>
+          </div>
+        </div>
+        <div className="w-full md:w-3/5 p-12">
+          <div className="mb-4">
+            <h2 className="text-2xl font-bold text-black mb-2">Biography</h2>
+            <p className="text-gray-500">{composer.detailedBio}</p>
+          </div>
+          <div>
+            <h2 className="text-2xl font-bold text-black mb-2">
+              Famous Compositions
+            </h2>
+            <ul className="list-disc list-inside ml-4 text-gray-500">
+              {composer.compositions.map((composition, index) => (
+                <li key={index} className="mb-2 text-md">{composition}</li>
+              ))}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
 }
