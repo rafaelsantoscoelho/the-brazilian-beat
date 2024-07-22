@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "name": "Pixinguinha",
+        "shortBio": "Pixinguinha was a Brazilian composer, arranger, flautist, and saxophonist.",
+        "detailedBio": "Alfredo da Rocha Viana Filho, known as Pixinguinha, is one of the most important figures in Brazilian music. His innovative arrangements transformed traditional choro and influenced the development of Brazilian popular music.",
+        "birthDate": "1897-04-23",
+        "deathDate": "1973-02-17",
+        "imageUrl1": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Pixinguinha_%282%29.jpg",
+        "imageUrl2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pixinguinha%2C_1959.tif/lossy-page1-800px-Pixinguinha%2C_1959.tif.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Ernesto Nazareth",
+        "shortBio": "Ernesto Nazareth was a Brazilian composer and pianist.",
+        "detailedBio": "Ernesto Júlio de Nazareth composed numerous waltzes, tangos, polkas, and other types of music, bridging the gap between classical music and popular music. His work has had a lasting impact on Brazilian music.",
+        "birthDate": "1863-03-20",
+        "deathDate": "1934-02-04",
+        "imageUrl1": "https://i1.sndcdn.com/artworks-O3JGP0Rb5PKjbUoj-j1tXGA-t500x500.jpg",
+        "imageUrl2": "https://www.classclef.com/img/postPic/nazareth.jpg?ezimgfmt=rs:178x178/rscb1/ngcb1/notWebP"
+    },
+    {
+        "id": 3,
+        "name": "Jacob do Bandolim",
+        "shortBio": "Jacob do Bandolim was a Brazilian mandolin player and composer.",
+        "detailedBio": "Jacob Pick Bittencourt, known as Jacob do Bandolim, was a virtuoso mandolin player and an influential choro composer. His works are essential to the choro repertoire and he is celebrated for his precise and expressive playing.",
+        "birthDate": "1918-02-14",
+        "deathDate": "1969-08-13",
+        "imageUrl1": "https://musicabrasilis.org.br/sites/default/files/styles/mb2018_221x328/public/jacob-do-bandolim_rev_0.jpg?itok=Lu9aVB0s",
+        "imageUrl2": "http://www.jacobdobandolim.com.br/images/jacob%20e%20seus%20bandolins%20(10).jpg"
+    },
+    {
+        "id": 4,
+        "name": "Chiquinha Gonzaga",
+        "shortBio": "Chiquinha Gonzaga was a Brazilian composer, pianist, and conductor.",
+        "detailedBio": "Francisca Edwiges Neves Gonzaga, known as Chiquinha Gonzaga, was the first woman to compose for the Brazilian theater and a pioneer of choro music. She was also an advocate for abolitionism and women's rights.",
+        "birthDate": "1847-10-17",
+        "deathDate": "1935-02-28",
+        "imageUrl1": "https://imgs.classicfm.com/images/195226?crop=16_9&width=660&relax=1&format=webp&signature=GoBkpZNL6S4Se_3fKZq4hpLtkfA=",
+        "imageUrl2": "https://upload.wikimedia.org/wikipedia/commons/8/80/Chiquinha_6a.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Waldir Azevedo",
+        "shortBio": "Waldir Azevedo was a Brazilian cavaquinho player and composer.",
+        "detailedBio": "Waldir Azevedo is best known for his tune 'Brasileirinho,' which is one of the most famous pieces of Brazilian popular music. He was a master of the cavaquinho and contributed significantly to the choro genre.",
+        "birthDate": "1923-01-27",
+        "deathDate": "1980-09-21",
+        "imageUrl1": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Waldir_Azevedo.jpg",
+        "imageUrl2": "https://cdns-images.dzcdn.net/images/artist/c758686ed04ef6b2e5f30cd0e4331a51/500x500.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Anacleto de Medeiros",
+        "shortBio": "Anacleto de Medeiros was a Brazilian composer and conductor.",
+        "detailedBio": "Anacleto Augusto de Medeiros was a prominent figure in the development of Brazilian music, especially known for his marches and choro compositions. He was a key influence in the formation of the modern choro style.",
+        "birthDate": "1866-07-13",
+        "deathDate": "1907-08-14",
+        "imageUrl1": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Anacletodemedeiros.jpg",
+        "imageUrl2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb3xAMs_3wcaPDOmGdpT0YqghrkRJ1_GdoVg&s"
+
+    },
+    {
+        "id": 7,
+        "name": "Zequinha de Abreu",
+        "shortBio": "Zequinha de Abreu was a Brazilian musician and composer.",
+        "detailedBio": "José Gomes de Abreu, known as Zequinha de Abreu, is best remembered for his choro composition 'Tico-Tico no Fubá,' which has become an internationally recognized piece of Brazilian music.",
+        "birthDate": "1880-09-19",
+        "deathDate": "1935-01-22",
+        "imageUrl1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Zequinha_de_Abreu%2C_1961.tif/lossy-page1-800px-Zequinha_de_Abreu%2C_1961.tif.jpg",
+        "imageUrl2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju0n5__6yhxdEzotVXT9uAcPHyON4YwvBdPSJCJjp2cYQrHKUeeDaLNfbKn9uTNTE9U8YsUR4csvx5jifZTW3jQlcrEERqNeTA8Psc8j5RzqSdrlFeBtrdPEbCBFuy-ap2ulJNqrwSmqpe/s1600/celestino_paraventi_2.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Luperce Miranda",
+        "shortBio": "Luperce Miranda was a Brazilian mandolin player and composer.",
+        "detailedBio": "Luperce Miranda was a virtuoso mandolin player known for his technical proficiency and expressive playing. He composed numerous choros and contributed significantly to the genre.",
+        "birthDate": "1904-07-28",
+        "deathDate": "1977-04-05",
+        "imageUrl1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnhFz0bcTAp0rHQGqCh-E5iARbH-xQAXEUQw&s",
+        "imageUrl2": "https://www.marilynnmair.com/wp-content/uploads/2000/01/2560849.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Radamés Gnattali",
+        "shortBio": "Radamés Gnattali was a Brazilian composer, conductor, and arranger.",
+        "detailedBio": "Radamés Gnattali was a prolific composer and arranger who bridged classical music and popular Brazilian music. His work in choro, samba, and orchestral music has left a lasting legacy in Brazilian culture.",
+        "birthDate": "1906-01-27",
+        "deathDate": "1988-02-13",
+        "imageUrl1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Radam%C3%A9s_Gnattali_%281950%29.tiff/lossy-page1-800px-Radam%C3%A9s_Gnattali_%281950%29.tiff.jpg",
+        "imageUrl2": "https://i.discogs.com/2gjB4Ju7D4iNhcv3gIMVs35MSwtldlnGNTn7kTsoVYw/rs:fit/g:sm/q:90/h:378/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTczMjg3/MS0xMzg1NTkwNjY4/LTE4NTAuanBlZw.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "Dona Ivone Lara",
+        "shortBio": "Dona Ivone Lara was a Brazilian singer and composer.",
+        "detailedBio": "Yvonne Lara da Costa, known as Dona Ivone Lara, was a pioneering female figure in samba and choro. She was one of the first women to become prominent in these genres, and her compositions and performances are celebrated.",
+        "birthDate": "1922-04-13",
+        "deathDate": "2018-04-16",
+        "imageUrl1": "https://vejario.abril.com.br/wp-content/uploads/2021/04/Ivone-Lara.jpg?quality=70&strip=info&w=369",
+        "imageUrl2": "https://images.quatrocincoum.com.br/rAkAANExUnvL3NE.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Paulinho da Viola",
+        "shortBio": "Paulinho da Viola is a Brazilian singer, composer, and guitarist.",
+        "detailedBio": "Paulo César Batista de Faria, known as Paulinho da Viola, is a respected samba and choro composer and performer. His elegant compositions and performances have earned him a distinguished place in Brazilian music.",
+        "birthDate": "1942-11-12",
+        "deathDate": null,
+        "imageUrl1": "https://i.pinimg.com/originals/05/ee/81/05ee81ded5ded11360921ad24b0dd6c8.jpg",
+        "imageUrl2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo2ta4T7TvLN9bURjbgqSyODAh7yrAGb48GQ&s"
+    },
+    {
+        "id": 12,
+        "name": "Ademilde Fonseca",
+        "shortBio": "Ademilde Fonseca was a Brazilian singer known as the 'Queen of Choro.'",
+        "detailedBio": "Ademilde Fonseca was celebrated for her quick and intricate vocal style, earning her the title 'Queen of Choro.' She was a prominent interpreter of choro music and had a significant influence on the genre.",
+        "birthDate": "1921-03-04",
+        "deathDate": "2012-03-27",
+        "imageUrl1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ademilde_Fonseca_%281959%29.tif/lossy-page1-800px-Ademilde_Fonseca_%281959%29.tif.jpg",
+        "imageUrl2": "https://cdns-images.dzcdn.net/images/artist/62368c16097555eb9353691fb921fc05/1900x1900-000000-80-0-0.jpg"
+    }
+]
