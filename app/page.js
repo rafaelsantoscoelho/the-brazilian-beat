@@ -1,113 +1,138 @@
 import Image from "next/image";
+import Link from "next/image";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
-        <p className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
-          Get started by editing&nbsp;
-          <code className="font-mono font-bold">app/page.js</code>
-        </p>
-        <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
-          <a
-            className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            By{" "}
-            <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className="dark:invert"
-              width={100}
-              height={24}
-              priority
-            />
-          </a>
+    <div className="flex flex-col min-h-screen bg-gray-100">
+      <header className="bg-white shadow-md py-4">
+        <div className="container mx-auto px-4 flex justify-between items-center">
+          <h1 className="text-2xl font-bold  text-center">
+            The Brazilian Beat
+          </h1>
+          <div className="flex space-x-2">
+  <a
+    href="/artists"
+    className="bg-green-700 hover:bg-green-800 text-white font-bold py-2 px-4 rounded"
+  >
+    Artists
+  </a>
+  <a
+    href="/instruments"
+    className="bg-green-700 hover:bg-green-800 text-white font-bold py-2 px-4 rounded"
+  >
+    Instruments
+  </a>
+  <a
+    href="/playlist"
+    className="bg-green-700 hover:bg-green-800 text-white font-bold py-2 px-4 rounded"
+  >
+    Playlist
+  </a>
+</div>
         </div>
-      </div>
-
-      <div className="relative flex place-items-center before:absolute before:h-[300px] before:w-full sm:before:w-[480px] before:-translate-x-1/2 before:rounded-full before:bg-gradient-radial before:from-white before:to-transparent before:blur-2xl before:content-[''] after:absolute after:-z-20 after:h-[180px] after:w-full sm:after:w-[240px] after:translate-x-1/3 after:bg-gradient-conic after:from-sky-200 after:via-blue-200 after:blur-2xl after:content-[''] before:dark:bg-gradient-to-br before:dark:from-transparent before:dark:to-blue-700 before:dark:opacity-10 after:dark:from-sky-900 after:dark:via-[#0141ff] after:dark:opacity-40 before:lg:h-[360px] z-[-1]">
-        <Image
-          className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
-          priority
-        />
-      </div>
-
-      <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
-        <a
-          href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Docs{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Find in-depth information about Next.js features and API.
+      </header>
+      <main className="flex-1 container mx-auto px-4 py-8">
+        <section className="mb-8 grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
+          <div className="order-2 md:order-1 text-left">
+            <h2 className="text-xl font-bold  mb-4">
+              What is it? Where did it come from?
+            </h2>
+            <p className="text-base ">
+              Choro is a vibrant and energetic instrumental genre of Brazilian
+              popular music. Despite its name translating to "cry" or "lament,"
+              choro is characterized by a joyful and upbeat rhythm. It emerged
+              in the late 19th century in Rio de Janeiro as a fusion of European
+              musical influences, such as the waltz and polka, with
+              African-Brazilian rhythms like lundu and batuque. This unique
+              blend gave birth to a musical style that is both sophisticated and
+              infectious, featuring intricate melodies, improvisation, and
+              syncopated rhythms.
+            </p>
+          </div>
+          <div className="order-1 md:order-2 flex justify-center">
+            <img
+              src="https://e.snmc.io/i/300/w/b75dd40a0572709c762f48c2df757034/7950634"
+              alt=""
+              className="w-full max-w-xs rounded shadow-md"
+            />
+          </div>
+        </section>
+        <section className="mb-8 grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
+          <div className="order-1 md:order-1 flex justify-center">
+            <figure>
+              <img
+                src="https://excavatedshellac.com/wp-content/uploads/2018/03/batutas.jpg"
+                alt="Batutas"
+                className="w-full max-w-md rounded shadow-md" // Increased image size from max-w-xs to max-w-md
+              />
+              <figcaption className="text-base  text-center mt-4">
+                Os Oito Batutas (or "The Eight Aces")
+              </figcaption>
+            </figure>
+          </div>
+          <div className="order-2 md:order-2 text-left">
+            <h2 className="text-xl font-bold  mb-4">
+              How did it evolve over time?
+            </h2>
+            <p className="text-base ">
+              Choro emerged in the late 19th century as a unique blend of
+              European and African-Brazilian musical elements. Initially, it was
+              simply a style of playing popular European dances like the waltz
+              and polka with a distinctly Brazilian rhythm. The term "choro"
+              itself is debated, possibly deriving from the emotional nature of
+              the music or from an Afro-Brazilian dance. Regardless, the genre
+              quickly developed its own identity with virtuoso musicians like
+              Joaquim Callado Jr. forming ensembles dedicated to this new style.{" "}
+              <br />
+              Choro gained popularity throughout the early 20th century,
+              becoming a symbol of Brazilian culture. Composers like Pixinguinha
+              pushed the boundaries of the genre, incorporating new instruments
+              and harmonies. However, the rise of samba in the 1930s
+              overshadowed choro's popularity. Despite this, the genre
+              experienced a revival in the 1940s thanks to musicians like Jacob
+              do Bandolim, who reintroduced choro to a new generation. <br />
+            </p>
+          </div>
+        </section>
+        <section className="mb-8 grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
+          <div className="order-2 md:order-1 text-left">
+            <h2 className="text-xl font-bold  mb-4">
+              What makes Choro unique?
+            </h2>
+            <p className="text-base ">
+              Choro is characterized by its lively and energetic tempo,
+              intricate melodies, and complex harmonies. A key feature is its
+              improvisational nature, allowing musicians to showcase their
+              virtuosity. The rhythmic foundation is a blend of African and
+              European influences, creating a syncopated and driving pulse.
+              Choro’s instrumentation typically includes flute, clarinet,
+              guitar, cavaquinho, and pandeiro, though other instruments can be
+              incorporated. The genre's joyful and playful spirit sets it apart
+              from other Brazilian musical styles.
+            </p>
+          </div>
+          <div className="order-1 md:order-2 flex justify-center">
+            <figure className="flex flex-col justify-center">
+              <img
+                src="https://s2-g1.glbimg.com/9VWvQ9VFBCG6Kv_yV6KGD3SN2Ko=/0x0:6000x4000/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/h/kapANeTliaxBTSm9bnBQ/ronaldo-do-bandolim-e-choro-na-ribeira-foto-rebeca-bravos-2-1-.jpg"
+                alt="Choro na Ribeira"
+                className="w-full max-w-sm rounded shadow-md" // Decreased image size from max-w-md to max-w-sm
+              />
+              <figcaption className="text-base  text-center mt-2">
+                Choro na Ribeira, a modern choro band from Rio de Janeiro
+              </figcaption>
+            </figure>
+          </div>
+        </section>
+      </main>
+      <footer className="bg-white shadow-md py-4">
+        <div className="container mx-auto px-4">
+          <p className="text-center text-gray-600 text-base">
+            CPRG306B | Web Dev 2 | Spring 2024 | Final Project | Rafael Santos
+            Coelho
           </p>
-        </a>
-
-        <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800 hover:dark:bg-opacity-30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Learn{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Learn about Next.js in an interactive course with&nbsp;quizzes!
-          </p>
-        </a>
-
-        <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Templates{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Explore starter templates for Next.js.
-          </p>
-        </a>
-
-        <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Deploy{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50 text-balance`}>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
-          </p>
-        </a>
-      </div>
-    </main>
+        </div>
+      </footer>
+    </div>
   );
 }
