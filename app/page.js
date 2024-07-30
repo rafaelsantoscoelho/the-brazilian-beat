@@ -5,21 +5,31 @@ export default function Home() {
     <div className="flex flex-col min-h-screen bg-gray-100">
       <header className="bg-white shadow-md py-4">
         <div className="container mx-auto px-4 text-center">
-          <h1 className="text-3xl font-bold mb-2">
-            The Brazilian Beat
-          </h1>
+          <h1 className="text-3xl font-bold mb-2">The Brazilian Beat</h1>
         </div>
       </header>
       <main className="flex-1 container mx-auto px-4 py-4">
-      <div className="mx-auto bg-white shadow-md py-2 px-4 rounded flex justify-center space-x-4" style={{ maxWidth: 'fit-content' }}>
-          <Link href="/artists" className="bg-green-700 hover:bg-green-500 text-white font-bold py-2 px-4 rounded">
-              Artists
+        <div
+          className="mx-auto bg-white shadow-md py-2 px-4 rounded flex justify-center space-x-4"
+          style={{ maxWidth: "fit-content" }}
+        >
+          <Link
+            href="/artists"
+            className="bg-green-700 hover:bg-green-500 text-white font-bold py-2 px-4 rounded"
+          >
+            Artists
           </Link>
-          <Link href="/instruments" className="bg-green-700 hover:bg-green-500 text-white font-bold py-2 px-4 rounded">
-              Instruments
+          <Link
+            href="/instruments"
+            className="bg-green-700 hover:bg-green-500 text-white font-bold py-2 px-4 rounded"
+          >
+            Instruments
           </Link>
-          <Link href="/playlist" className="bg-green-700 hover:bg-green-500 text-white font-bold py-2 px-4 rounded">
-              Playlist
+          <Link
+            href="/playlist"
+            className="bg-green-700 hover:bg-green-500 text-white font-bold py-2 px-4 rounded"
+          >
+            Playlist
           </Link>
         </div>
         <section className="mt-16 mb-8 grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
@@ -39,12 +49,17 @@ export default function Home() {
               syncopated rhythms.
             </p>
           </div>
-          <div className="order-1 md:order-2 flex justify-center">
-            <img
-              src="https://e.snmc.io/i/300/w/b75dd40a0572709c762f48c2df757034/7950634"
-              alt="Album cover"
-              className="w-full max-w-xs rounded shadow-md"
-            />
+          <div className="order-1 md:order-1 flex justify-center">
+            <figure>
+              <img
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUQVioiqtPMSCaqXsiIa4ogHS3GAK8SloFQ&s"
+                alt="Album cover"
+                className="w-full w-64 h-64 rounded shadow-md"
+              />
+              <figcaption className="text-base text-center mt-4">
+                Clube do Choro de Betim
+              </figcaption>
+            </figure>
           </div>
         </section>
         <section className="mb-8 grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
@@ -56,7 +71,7 @@ export default function Home() {
                 className="w-full max-w-md rounded shadow-md"
               />
               <figcaption className="text-base text-center mt-4">
-                Os Oito Batutas (or &quot;The Eight Aces&quot;)
+                Os Oito Batutas
               </figcaption>
             </figure>
           </div>
@@ -97,8 +112,8 @@ export default function Home() {
               European influences, creating a syncopated and driving pulse.
               Choro&apos;s instrumentation typically includes flute, clarinet,
               guitar, cavaquinho, and pandeiro, though other instruments can be
-              incorporated. The genre&apos;s joyful and playful spirit sets it apart
-              from other Brazilian musical styles.
+              incorporated. The genre&apos;s joyful and playful spirit sets it
+              apart from other Brazilian musical styles.
             </p>
           </div>
           <div className="order-1 md:order-2 flex justify-center">
@@ -109,7 +124,7 @@ export default function Home() {
                 className="w-full max-w-sm rounded shadow-md"
               />
               <figcaption className="text-base text-center mt-2">
-                Choro na Ribeira, a choro band from Rio de Janeiro
+                Choro na Ribeira
               </figcaption>
             </figure>
           </div>
