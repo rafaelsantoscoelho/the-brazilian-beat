@@ -1,43 +1,33 @@
-import Image from "next/image";
-import Link from "next/image";
+import Link from "next/link";
 
 export default function Home() {
   return (
     <div className="flex flex-col min-h-screen bg-gray-100">
       <header className="bg-white shadow-md py-4">
-        <div className="container mx-auto px-4 flex justify-between items-center">
-          <h1 className="text-2xl font-bold  text-center">
+        <div className="container mx-auto px-4 text-center">
+          <h1 className="text-3xl font-bold mb-2">
             The Brazilian Beat
           </h1>
-          <div className="flex space-x-2">
-  <a
-    href="/artists"
-    className="bg-green-700 hover:bg-green-800 text-white font-bold py-2 px-4 rounded"
-  >
-    Artists
-  </a>
-  <a
-    href="/instruments"
-    className="bg-green-700 hover:bg-green-800 text-white font-bold py-2 px-4 rounded"
-  >
-    Instruments
-  </a>
-  <a
-    href="/playlist"
-    className="bg-green-700 hover:bg-green-800 text-white font-bold py-2 px-4 rounded"
-  >
-    Playlist
-  </a>
-</div>
         </div>
       </header>
-      <main className="flex-1 container mx-auto px-4 py-8">
-        <section className="mb-8 grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
+      <main className="flex-1 container mx-auto px-4 py-4">
+      <div className="mx-auto bg-white shadow-md py-2 px-4 rounded flex justify-center space-x-4" style={{ maxWidth: 'fit-content' }}>
+          <Link href="/artists" className="bg-green-700 hover:bg-green-500 text-white font-bold py-2 px-4 rounded">
+              Artists
+          </Link>
+          <Link href="/instruments" className="bg-green-700 hover:bg-green-500 text-white font-bold py-2 px-4 rounded">
+              Instruments
+          </Link>
+          <Link href="/playlist" className="bg-green-700 hover:bg-green-500 text-white font-bold py-2 px-4 rounded">
+              Playlist
+          </Link>
+        </div>
+        <section className="mt-16 mb-8 grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
           <div className="order-2 md:order-1 text-left">
-            <h2 className="text-xl font-bold  mb-4">
+            <h2 className="text-xl font-bold mb-4 bg-blue-800 text-white rounded px-2 py-1 inline-block">
               What is it? Where did it come from?
             </h2>
-            <p className="text-base ">
+            <p className="text-base">
               Choro is a vibrant and energetic instrumental genre of Brazilian
               popular music. Despite its name translating to cry or lament,
               choro is characterized by a joyful and upbeat rhythm. It emerged
@@ -52,7 +42,7 @@ export default function Home() {
           <div className="order-1 md:order-2 flex justify-center">
             <img
               src="https://e.snmc.io/i/300/w/b75dd40a0572709c762f48c2df757034/7950634"
-              alt=""
+              alt="Album cover"
               className="w-full max-w-xs rounded shadow-md"
             />
           </div>
@@ -65,13 +55,13 @@ export default function Home() {
                 alt="Batutas"
                 className="w-full max-w-md rounded shadow-md"
               />
-              <figcaption className="text-base  text-center mt-4">
+              <figcaption className="text-base text-center mt-4">
                 Os Oito Batutas (or &quot;The Eight Aces&quot;)
               </figcaption>
             </figure>
           </div>
           <div className="order-2 md:order-2 text-left">
-            <h2 className="text-xl font-bold  mb-4">
+            <h2 className="text-xl font-bold mb-4 bg-blue-800 text-white rounded px-2 py-1 inline-block">
               How did it evolve over time?
             </h2>
             <p className="text-base">
@@ -96,7 +86,7 @@ export default function Home() {
         </section>
         <section className="mb-8 grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
           <div className="order-2 md:order-1 text-left">
-            <h2 className="text-xl font-bold  mb-4">
+            <h2 className="text-xl font-bold mb-4 bg-blue-800 text-white rounded px-2 py-1 inline-block">
               What makes Choro unique?
             </h2>
             <p className="text-base">
@@ -116,10 +106,10 @@ export default function Home() {
               <img
                 src="https://s2-g1.glbimg.com/9VWvQ9VFBCG6Kv_yV6KGD3SN2Ko=/0x0:6000x4000/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/h/kapANeTliaxBTSm9bnBQ/ronaldo-do-bandolim-e-choro-na-ribeira-foto-rebeca-bravos-2-1-.jpg"
                 alt="Choro na Ribeira"
-                className="w-full max-w-sm rounded shadow-md" // Decreased image size from max-w-md to max-w-sm
+                className="w-full max-w-sm rounded shadow-md"
               />
-              <figcaption className="text-base  text-center mt-2">
-                Choro na Ribeira, a modern choro band from Rio de Janeiro
+              <figcaption className="text-base text-center mt-2">
+                Choro na Ribeira, a choro band from Rio de Janeiro
               </figcaption>
             </figure>
           </div>
