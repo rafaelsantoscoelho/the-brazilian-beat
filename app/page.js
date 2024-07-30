@@ -82,7 +82,7 @@ export default function Home() {
               itself is debated, possibly deriving from the emotional nature of
               the music or from an Afro-Brazilian dance. Regardless, the genre
               quickly developed its own identity with virtuoso musicians like
-              Joaquim Callado Jr. forming ensembles dedicated to this new style.{" "}
+              Joaquim Callado Jr. forming ensembles dedicated to this new style.
               <br />
               Choro gained popularity throughout the early 20th century,
               becoming a symbol of Brazilian culture. Composers like Pixinguinha
@@ -99,7 +99,7 @@ export default function Home() {
             <h2 className="text-xl font-bold  mb-4">
               What makes Choro unique?
             </h2>
-            <p className="text-base ">
+            <p className="text-base">
               Choro is characterized by its lively and energetic tempo,
               intricate melodies, and complex harmonies. A key feature is its
               improvisational nature, allowing musicians to showcase their
