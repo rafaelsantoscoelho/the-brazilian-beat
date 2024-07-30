@@ -63,10 +63,10 @@ export default function Home() {
               <img
                 src="https://excavatedshellac.com/wp-content/uploads/2018/03/batutas.jpg"
                 alt="Batutas"
-                className="w-full max-w-md rounded shadow-md" // Increased image size from max-w-xs to max-w-md
+                className="w-full max-w-md rounded shadow-md"
               />
               <figcaption className="text-base  text-center mt-4">
-                Os Oito Batutas (or "The Eight Aces")
+                Os Oito Batutas (or &quot;The Eight Aces&quot;)
               </figcaption>
             </figure>
           </div>
@@ -88,7 +88,7 @@ export default function Home() {
               becoming a symbol of Brazilian culture. Composers like Pixinguinha
               pushed the boundaries of the genre, incorporating new instruments
               and harmonies. However, the rise of samba in the 1930s
-              overshadowed choro's popularity. Despite this, the genre
+              overshadowed choro&apos;s popularity. Despite this, the genre
               experienced a revival in the 1940s thanks to musicians like Jacob
               do Bandolim, who reintroduced choro to a new generation. <br />
             </p>
