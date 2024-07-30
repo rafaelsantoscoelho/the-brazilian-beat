@@ -39,7 +39,7 @@ export default function Home() {
             </h2>
             <p className="text-base ">
               Choro is a vibrant and energetic instrumental genre of Brazilian
-              popular music. Despite its name translating to "cry" or "lament,"
+              popular music. Despite its name translating to cry or lament,
               choro is characterized by a joyful and upbeat rhythm. It emerged
               in the late 19th century in Rio de Janeiro as a fusion of European
               musical influences, such as the waltz and polka, with
@@ -78,7 +78,7 @@ export default function Home() {
               Choro emerged in the late 19th century as a unique blend of
               European and African-Brazilian musical elements. Initially, it was
               simply a style of playing popular European dances like the waltz
-              and polka with a distinctly Brazilian rhythm. The term "choro"
+              and polka with a distinctly Brazilian rhythm. The term choro
               itself is debated, possibly deriving from the emotional nature of
               the music or from an Afro-Brazilian dance. Regardless, the genre
               quickly developed its own identity with virtuoso musicians like
@@ -105,7 +105,7 @@ export default function Home() {
               improvisational nature, allowing musicians to showcase their
               virtuosity. The rhythmic foundation is a blend of African and
               European influences, creating a syncopated and driving pulse.
-              Choro’s instrumentation typically includes flute, clarinet,
+              Choro's instrumentation typically includes flute, clarinet,
               guitar, cavaquinho, and pandeiro, though other instruments can be
               incorporated. The genre's joyful and playful spirit sets it apart
               from other Brazilian musical styles.
