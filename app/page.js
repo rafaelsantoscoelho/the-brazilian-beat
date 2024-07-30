@@ -74,7 +74,7 @@ export default function Home() {
             <h2 className="text-xl font-bold  mb-4">
               How did it evolve over time?
             </h2>
-            <p className="text-base ">
+            <p className="text-base">
               Choro emerged in the late 19th century as a unique blend of
               European and African-Brazilian musical elements. Initially, it was
               simply a style of playing popular European dances like the waltz
@@ -105,9 +105,9 @@ export default function Home() {
               improvisational nature, allowing musicians to showcase their
               virtuosity. The rhythmic foundation is a blend of African and
               European influences, creating a syncopated and driving pulse.
-              Choro's instrumentation typically includes flute, clarinet,
+              Choro&apos;s instrumentation typically includes flute, clarinet,
               guitar, cavaquinho, and pandeiro, though other instruments can be
-              incorporated. The genre's joyful and playful spirit sets it apart
+              incorporated. The genre&apos;s joyful and playful spirit sets it apart
               from other Brazilian musical styles.
             </p>
           </div>
