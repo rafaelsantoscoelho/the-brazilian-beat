@@ -1,0 +1,131 @@
+{
+    "strings": {
+      "cavaquinho": {
+        "name": "Cavaquinho",
+        "description": "The cavaquinho is a small, four-stringed Portuguese guitar that has become an indispensable element of Brazilian choro music. Its compact size and bright, percussive tone make it a versatile instrument capable of handling both melodic and rhythmic duties. As a core member of the choro ensemble, the cavaquinho provides the harmonic foundation and contributes significantly to the genre's lively and improvisational character. Its ability to blend seamlessly with other instruments while maintaining a distinct presence has solidified its status as a beloved instrument among choro musicians and enthusiasts alike.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR7QGwTAbUEHuTpvsm9YVEhcd8cLzMV0RTdg&s",
+        "artists": [
+          {
+            "name": "Luciana Rabello",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVJDC802Vd-ZtIhZBb1lZAvV1Lf6mGtvXpPQ&s"
+          },
+          {
+            "name": "Toco Preto",
+            "photo": "https://1.bp.blogspot.com/-LXjYh49fa_E/U7NdqDXnRzI/AAAAAAAAA68/BLEcZ7mkqZo/s1600/cover.jpg"
+          }
+        ]
+      },
+      "violao de 7 cordas": {
+        "name": "Violão de 7 Cordas (7-string Guitar)",
+        "description": "The violão de 7 cordas, or seven-string guitar, is a distinctive instrument that adds depth and richness to choro music. Its extended range, with the addition of a lower bass string, provides a robust harmonic foundation and supports the melodic lines of other instruments. The violão de 7 cordas is particularly well-suited for accompanying vocalists and creating lush chord progressions. While often overshadowed by the cavaquinho, its unique tonal qualities and versatility make it an essential component of the traditional choro ensemble.",
+        "image": "https://rozinibrazil.com/wp-content/uploads/2022/11/Violao-Studio-Classico-7C-EQ-RE2.jpg",
+        "artists": [
+          {
+            "name": "Dilermando Reis",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKj1FrecBDLXIlXJYlEEeGlLweDMSE_YeO2A&s"
+          },
+          {
+            "name": "Rogerio Caetano",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_aWHVOH0rZiM35uKVhC3UcBWcBQUiI1rnfQ&s"
+          }
+        ]
+      }
+    },
+    "woodwinds": {
+      "flute": {
+        "name": "Flute",
+        "description": "The flute is a cornerstone of choro music, providing the melodic heart and soul of the ensemble. Its bright, airy tone and expressive capabilities make it an ideal instrument for conveying the genre's joyful and improvisational spirit. The flutist's ability to interact with other musicians is essential in creating the intricate interplay and call-and-response patterns that characterize choro. From the soaring melodies to the delicate ornamentation, the flute's contribution to the overall sound of choro is immeasurable.",
+        "image": "https://allyouneedmusic.com/cdn/shop/products/yamaha-yfl-222-standard-flute-offset-g-c-foot.jpg?v=1631039236",
+        "artists": [
+          {
+            "name": "Pixinguinha",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVA_h6QvvTzPeT60yc2Ha0Zl6f1ZJHdNNz4Q&s"
+          },
+          {
+            "name": "Nivaldo Ornelas",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrvS49D3MRZZ-g_dTnxWta5a77MzvLoSMmog&s"
+          }
+        ]
+      },
+      "clarinet": {
+        "name": "Clarinet",
+        "description": "The clarinet is a versatile woodwind instrument that adds warmth, color, and expressiveness to choro music. Its rich tonal range and dynamic capabilities allow it to excel in both melodic and harmonic roles. The clarinet's ability to blend seamlessly with other instruments while maintaining its distinctive voice makes it a valuable asset to the choro ensemble. Whether playing intricate solos or providing subtle accompaniment, the clarinet contributes significantly to the overall character and charm of the genre.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAjuB4HEn--se0RLaSF16Lw3IQPeieuXzdwg&s",
+        "artists": [
+          {
+            "name": "Paulo Moura",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAi1w4yETSipo0huV04vcfYfO5506frlQkSg&s"
+          },
+          {
+            "name": "Benedito Lacerda",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5PqMHC_7Y3R2grcBDbmmtx1Yi9MrHlPqdMCkXvYUlEGY8j2wBv7_S1Ehl10BBR71eiU4&usqp=CAU"
+          }
+        ]
+      },
+      "saxophone": {
+        "name": "Saxophone",
+        "description": "The saxophone, a relatively recent addition to the choro ensemble, has become an increasingly popular and influential instrument in the genre. Its powerful and expressive sound adds a modern edge to the traditional choro sound while maintaining a seamless integration with the core instrumentation. The saxophone's ability to improvise and solo with virtuosity has expanded the stylistic possibilities of choro, making it a dynamic and exciting instrument for contemporary musicians.",
+        "image": "https://ca.yamaha.com/en/files/yas-280_669d720eb66e3c4bccf94e35194b57bb.jpg?impolicy=resize&imwid=396&imhei=396",
+        "artists": [
+          {
+            "name": "Nailor Proveta",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhqNnXhKYunJc5sjddnc01UovaCIRdnUwWMw&s"
+          },
+          {
+            "name": "Pixinguinha",
+            "photo": "https://photos1.blogger.com/blogger/6286/2350/1600/pixinguinha.jpg"
+          }
+        ]
+      }
+    },
+    "percussion": {
+      "pandeiro": {
+        "name": "Pandeiro (Tambourine)",
+        "description": "The pandeiro is the rhythmic backbone of choro music, providing the driving force and infectious energy that propel the ensemble forward. Its combination of a resonant head and jingling metal disks creates a complex and dynamic percussive sound that is essential to the genre's rhythmic vitality. The pandeiro player's skill in maintaining a steady pulse while adding intricate syncopations and accents is crucial to the overall success of the choro performance.",
+        "image": "https://m.media-amazon.com/images/I/81+XuOPm2uL.jpg",
+        "artists": [
+          {
+            "name": "Marcos Suzano",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN8Yqw3sclQSUYb-YXstxeHVbu0hvM1NsjsQ&s"
+          },
+          {
+            "name": "Joao da Baiana",
+            "photo": "https://www.gov.br/palmares/pt-br/assuntos/noticias/personalidades-negras-2013-joao-da-baiana/jb.jpg"
+          }
+        ]
+      }
+    },
+    "keyboard": {
+      "piano": {
+        "name": "Piano",
+        "description": "The piano has become an integral part of the choro ensemble, adding harmonic richness, melodic sophistication, and improvisational flair. Its versatility allows it to fulfill a wide range of musical roles, from providing a solid harmonic foundation to taking center stage with virtuosic solos. The piano's ability to blend seamlessly with other instruments while maintaining its distinctive voice makes it a valuable asset to the choro ensemble. Its presence has contributed significantly to the evolution of the genre.",
+        "image": "https://e22nydkgvrx.exactdn.com/wp-content/uploads/2018/04/185-Grand-Piano-top-cropped.jpg?strip=all&lossy=1&ssl=1",
+        "artists": [
+          {
+            "name": "Hercules Gomes",
+            "photo": "https://www.cartacapital.com.br/wp-content/uploads/2020/01/hercules-gomes.jpg"
+          },
+          {
+            "name": "Ernesto Nazareth",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi5Mc9ulKyLhzoZkhMCmUiNy_e2PjFmynvCg&s"
+          }
+        ]
+      },
+      "accordion": {
+        "name": "Accordion",
+        "description": "The accordion is a versatile instrument that adds a unique and colorful dimension to choro music. Its portable nature and ability to provide both melody and harmony make it a popular choice for street musicians and small ensembles. The accordion's distinctive sound and rhythmic capabilities contribute to the lively and improvisational character of choro. While less common than other instruments, the accordion has carved out a niche for itself in the hearts of choro enthusiasts.",
+        "image": "https://m.media-amazon.com/images/I/81KqAoxR9oL._AC_UF1000,1000_QL80_.jpg",
+        "artists": [
+          {
+            "name": "Orlando Silveira",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Orlando_Silveira.jpg"
+          },
+          {
+            "name": "Sivuca",
+            "photo": "https://images03.brasildefato.com.br/334085f9e85446299abf567ae18674c6.jpeg"
+          }
+        ]
+      }
+    }
+  }
+  
