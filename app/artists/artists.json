@@ -5,17 +5,18 @@
         "name": "Pixinguinha",
         "compositions": [
             "Carinhoso",
-            "Laranjeira",
+            "Ingenuo",
             "Um a Zero",
             "Ingenuo"
-        ],        
+        ],    
+        "youtubelinks": ["https://www.youtube.com/watch?v=3edqbUMnM3s", "https://www.youtube.com/watch?v=z6nA_gmZcSM"],    
         "shortBio": "Pixinguinha was a Brazilian composer, arranger, flautist, and saxophonist.",
         "detailedBio": "Alfredo da Rocha Viana Filho, known as Pixinguinha, was a pioneering Brazilian composer, arranger, flautist, and saxophonist. Born on April 23, 1897, in Rio de Janeiro, Pixinguinha is considered one of the greatest composers of Brazilian popular music, particularly for his work in the genre of choro. His compositions, such as 'Carinhoso' and 'Lamentos,' have become standards of Brazilian music, and his innovative arrangements and orchestrations have had a lasting influence on the development of samba and MPB (Música Popular Brasileira).\n\nPixinguinha began his musical career at a young age, performing in Rio de Janeiro's nightlife scene. He gained fame as a member of the group Oito Batutas, which toured internationally in the 1920s. Throughout his career, Pixinguinha collaborated with many other prominent musicians and composers, and he is credited with helping to modernize choro by introducing elements of jazz and classical music. His contributions to Brazilian music were recognized with numerous awards and honors, and his legacy continues to inspire musicians today.",
         "birthDate": "1897-04-23",
         "deathDate": "1973-02-17",
         "imageUrl1": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Pixinguinha_%282%29.jpg",
         "imageUrl2": "https://africainwords.com/wp-content/uploads/2013/04/pixinguinha_acervo-instituto-moreira-salles2.jpg?w=700",
-        "title": "Flautist and saxophonist"
+        "title": "Flutist and saxophonist"
     },
     {
         "albums": ["A Música de Ernesto Nazareth", "https://www.cartacapital.com.br/wp-content/uploads/2012/04/ernestonazareth.jpg", 1954],
@@ -27,6 +28,7 @@
         "Apanhei-te, Cavaquinho",
         "Expansiva"
         ],        
+        "youtubelinks": ["https://www.youtube.com/watch?v=OG84YSBnNqc", "https://www.youtube.com/watch?v=t-Av_Yl25X0"],    
         "shortBio": "Ernesto Nazareth was a Brazilian composer and pianist.",
         "detailedBio": "Ernesto Júlio de Nazareth was a Brazilian composer and pianist, born on March 20, 1863, in Rio de Janeiro. He is best known for his compositions that blend classical music with Brazilian popular and folk music. Nazareth's works, such as 'Odeon,' 'Brejeiro,' and 'Apanhei-te Cavaquinho,' are considered classics in the Brazilian repertoire. His music is characterized by its rhythmic complexity and melodic beauty, reflecting the influences of both European classical music and Afro-Brazilian rhythms.\n\nNazareth's career began in the late 19th century, and he quickly gained recognition for his virtuosity as a pianist and his innovative compositions. He performed in various venues across Brazil and published numerous pieces that have since become staples of Brazilian music. Despite facing personal challenges, including mental health issues, Nazareth's contributions to Brazilian music were immense, and he is remembered as one of the pioneers of choro and the precursor to samba. His legacy is celebrated in Brazil and around the world, and his music continues to be performed and recorded by musicians of all genres.",
         "birthDate": "1863-03-20",
@@ -40,11 +42,12 @@
         "id": 3,
         "name": "Jacob do Bandolim",
         "compositions": [
-        "Delicado",
+            "Noites Cariocas",
+            "Assanhado",
         "Chorinho de Caprichos",
-        "Noites Cariocas",
         "Ternura"
-        ],        
+        ],
+        "youtubelinks": ["https://www.youtube.com/watch?v=KI5fnncDn28", "https://www.youtube.com/watch?v=eadFunvjE04"],    
         "shortBio": "Jacob do Bandolim was a Brazilian mandolin player and composer.",
         "detailedBio": "Jacob Pick Bittencourt, known as Jacob do Bandolim, was a Brazilian composer and mandolinist, born on February 14, 1918, in Rio de Janeiro. Jacob is considered one of the greatest mandolinists in Brazilian music history, and his name is synonymous with the choro genre. He was known for his impeccable technique, expressive playing, and innovative compositions, which include classics like 'Doce de Coco,' 'Noites Cariocas,' and 'Assanhado.'\n\nJacob's passion for music began in his youth, and he taught himself to play the mandolin. He became a professional musician in the 1930s and quickly gained fame for his virtuosic performances and original compositions. In addition to his work as a performer and composer, Jacob was dedicated to preserving and promoting choro music. He founded the group Época de Ouro, which became one of the most important choro ensembles in Brazil. Jacob's influence on Brazilian music is profound, and his recordings remain a vital part of the country's musical heritage.",
         "birthDate": "1918-02-14",
@@ -58,11 +61,12 @@
         "id": 4,
         "name": "Chiquinha Gonzaga",
         "compositions": [
-        "Lua Branca",
-        "Ode Bobeada",
+        "O corta-jaca",
+        "Agua de vintem",
         "Brejeiro",
         "Angélica"
         ],
+        "youtubelinks": ["https://www.youtube.com/watch?v=q2DUzJxUbYc", "https://www.youtube.com/watch?v=-fKlaN2dibE"],        
         "shortBio": "Chiquinha Gonzaga was a Brazilian composer, pianist, and conductor.",
         "detailedBio": "A pioneer of Choro music, Chiquinha Gonzaga was a Brazilian composer, pianist, and singer who broke barriers in a male-dominated field. Born Francisca Edwiges Neves Gonzaga in Rio de Janeiro, she defied societal expectations by pursuing a career in music.  She composed over 2,000 pieces, including the iconic 'Lua Branca' (White Moon), a waltz that became a cornerstone of Choro and a staple in Brazilian popular culture.  Known for her innovative and playful compositions, Gonzaga incorporated elements of polka, maxixe, and other genres into Choro, expanding its stylistic vocabulary.  Her music often addressed social issues and celebrated the vibrant spirit of Rio de Janeiro.  Beyond music, she campaigned for women's rights and challenged traditional gender roles, becoming a symbol of female empowerment in Brazilian society.",
         "birthDate": "1847-10-17",
@@ -76,11 +80,12 @@
         "id": 5,
         "name": "Waldir Azevedo",
         "compositions": [
-        "Camaroeiro",
-        "Pedreira de São Paulo",
+        "Flor do cerrado",
+        "Delicado",
         "Brasilidade",
         "Noites Cariocas"
         ],
+        "youtubelinks": ["https://www.youtube.com/watch?v=8Cpy8tbOas0", "https://www.youtube.com/watch?v=6tTFpMKOBa0"],                
         "shortBio": "Waldir Azevedo was a Brazilian cavaquinho player and composer.",
         "detailedBio": "A pivotal figure in the evolution of Choro, Waldir Azevedo was a Brazilian composer, guitarist, and bandleader. Born in Rio de Janeiro, he began his musical journey at a young age, performing with renowned Choro musicians like Pixinguinha.  Throughout his career, Azevedo composed over 1,000 pieces, many considered classics of the genre.  He was known for his virtuosic guitar playing, innovative harmonies, and ability to blend traditional Choro with modern influences like jazz and bossa nova.  Azevedo's compositions often explored complex emotions and social themes, pushing the boundaries of Choro's expressive capabilities.  He also played a crucial role in reviving Choro's popularity during the 1970s, leading the group 'O Som Carioca' and collaborating with younger musicians, ensuring the genre's continued relevance.",
         "birthDate": "1923-01-27",
@@ -94,11 +99,12 @@
         "id": 6,
         "name": "Anacleto de Medeiros",
         "compositions": [
-            "Odeon",
-            "Brasilidade",
+            "Tres estrelinhas",
+            "O Boemio",
             "Doce de Coco",
             "Dona Thereza"
         ],
+        "youtubelinks": ["https://www.youtube.com/watch?v=h7j5bvbhBKs", "https://www.youtube.com/watch?v=1p9K_xbx-JM"],                
         "shortBio": "Anacleto de Medeiros was a Brazilian composer and conductor.",
         "detailedBio": "A prominent figure in the early development of Choro, Anacleto de Medeiros was a Brazilian flutist, composer, and bandleader. Born in Rio de Janeiro, he received classical music training but found his passion in Choro.  De Medeiros' masterful flute playing and innovative compositions significantly impacted the genre's evolution.  He co-founded the renowned 'Flutistas Reunidos' ensemble, pushing the boundaries of Choro by incorporating elements of classical music and creating more complex arrangements.  His compositions, such as 'Odeon' and 'Brasilidade,' became staples of the repertoire, showcasing his unique blend of technical virtuosity and lyrical melody.  De Medeiros' legacy lies in his contributions to Choro's musical vocabulary and his role in bridging the gap between the genre's folkloric roots and a more sophisticated musical language.",
         "birthDate": "1866-07-13",
@@ -113,10 +119,11 @@
         "name": "Zequinha de Abreu",
         "compositions": [
             "Tico-Tico no Fubá",
-            "Tanta Saudade",
+            "Sururu na Cidade",
             "Tapioca",
             "Branca"
         ],
+        "youtubelinks": ["https://www.youtube.com/watch?v=v_ZnJCMQqwo", "https://www.youtube.com/watch?v=W5aunw9w0HQ"],                
         "shortBio": "Zequinha de Abreu was a Brazilian musician and composer.",
         "detailedBio": "A versatile musician and a champion of Choro music, Luperce Miranda was a Brazilian clarinetist, composer, and bandleader. Born in Rio de Janeiro, he began his musical career playing the flute before switching to the clarinet, becoming a master of the instrument.  Miranda's virtuosity and improvisational skills earned him a prominent place in the Choro scene.  He led his own ensembles and collaborated with legendary musicians like Jacob do Bandolim.  As a composer, Miranda contributed numerous Choro pieces to the repertoire, showcasing his unique blend of melodic inventiveness and technical mastery.  Beyond performance and composition, Miranda actively championed Choro, organizing festivals and events that helped preserve and promote the genre.  His dedication to Choro ensured its continued presence in the Brazilian musical landscape and inspired generations of musicians.",
         "birthDate": "1880-09-19",
@@ -130,11 +137,12 @@
         "id": 8,
         "name": "Luperce Miranda",
         "compositions": [
-            "Bravura",
-            "Cobra Criada",
+            "Alma e Coracao",
+            "Naquele Tempo",
             "Lembranças",
             "Lua Desejada"
         ],
+        "youtubelinks": ["https://www.youtube.com/watch?v=O1T1IdZQkQk", "https://www.youtube.com/watch?v=kDhKumPb1rk"],                
         "shortBio": "Luperce Miranda was a Brazilian mandolin player and composer.",
         "detailedBio": "A versatile musician and a champion of Choro music, Luperce Miranda was a Brazilian clarinetist, composer, and bandleader. Born in Rio de Janeiro, he began his musical career playing the flute before switching to the clarinet, becoming a master of the instrument.  Miranda's virtuosity and improvisational skills earned him a prominent place in the Choro scene.  He led his own ensembles and collaborated with legendary musicians like Jacob do Bandolim.  As a composer, Miranda contributed numerous Choro pieces to the repertoire, showcasing his unique blend of melodic inventiveness and technical mastery.  Beyond performance and composition, Miranda actively championed Choro, organizing festivals and events that helped preserve and promote the genre.  His dedication to Choro ensured its continued presence in the Brazilian musical landscape and inspired generations of musicians.",
         "birthDate": "1904-07-28",
@@ -148,11 +156,12 @@
         "id": 9,
         "name": "Radamés Gnattali",
         "compositions": [
-            "Brasília",
-            "Wals Nazareth",
+            "Zanzando em Copacabana",
+            "Papo de Anjo",
             "Saudade do Rio",
             "Ponteio para Pixinguinha"
         ],        
+        "youtubelinks": ["https://www.youtube.com/watch?v=HWy0Zvj7kzs", "https://www.youtube.com/watch?v=-F6zRTUTTM8"],                
         "shortBio": "Radamés Gnattali was a Brazilian composer, conductor, and arranger.",
         "detailedBio": "A multifaceted composer and a leading figure in 20th-century Brazilian music, Radames Gnattali was a pianist, conductor, arranger, and teacher. Born in Rio de Janeiro, Gnattali displayed musical talent at a young age and went on to study classical music in Brazil and Europe.  While his compositions encompassed various styles, including symphonic works and concertos, he left a significant mark on Choro.  Gnattali's approach to Choro was both innovative and respectful of tradition.  He incorporated elements of jazz, atonality, and other contemporary musical trends into his Choro compositions, expanding the genre's harmonic and rhythmic vocabulary.  His works, such as 'Brasília' and 'Wals Nazareth,' are celebrated for their complexity, emotional depth, and unique blend of influences.  Radames Gnattali's legacy extends beyond Choro, as he is considered one of Brazil's most important composers, leaving behind a vast and influential body of work.",
         "birthDate": "1906-01-27",
@@ -166,11 +175,12 @@
         "id": 10,
         "name": "Dona Ivone Lara",
         "compositions": [
-            "Bandeira de Prata",
+            "Sem Cavaco Nao",
             "Sonho Meu",
             "Candeeiro da Esperança",
             "Fascínio"
         ],       
+        "youtubelinks": ["https://www.youtube.com/watch?v=EAJtx8_iJTg", "https://www.youtube.com/watch?v=f7KT1OaPEcg"],                
         "shortBio": "Dona Ivone Lara was a Brazilian singer and composer.",
         "detailedBio": "A pioneering songwriter and a leading figure in Samba music, Dona Ivone Lara was a Brazilian singer, composer, and businesswoman. Born in Rio de Janeiro, she overcame societal limitations and carved a path for women in the male-dominated world of Samba.  Dona Ivone Lara composed over 200 songs, many of which became classics of the genre.  Her compositions explored themes of love, everyday life, and social issues, often celebrating the vibrant culture of Rio de Janeiro's favelas (slums).  Her music resonated with a wide audience and established her as a voice for the underprivileged.  Beyond composing, Dona Ivone Lara co-founded a renowned samba school, 'Ihla da Madeira,' nurturing young talent and promoting community spirit.  She is considered a legend of Samba and an inspiration for generations of female musicians in Brazil.",
         "birthDate": "1922-04-13",
@@ -184,11 +194,12 @@
         "id": 11,
         "name": "Paulinho da Viola",
         "compositions": [
-            "Para Um Beijo",
-            "Coração de Pau",
+            "Foi Um Rio Que Passou Na Minha Vida",
+            "Timoneiro",
             "Anunciação",
             "Chega de Saudade"
         ],        
+        "youtubelinks": ["https://www.youtube.com/watch?v=TeF8W3WMycA", "https://www.youtube.com/watch?v=uF9Pw_-yJQI"],                
         "shortBio": "Paulinho da Viola is a Brazilian singer, composer, and guitarist.",
         "detailedBio": "A prominent singer-songwriter and a leading figure in the modern era of Choro, Paulinho da Viola is a Brazilian guitarist, vocalist, and composer. Born in Rio de Janeiro, he emerged during the Bossa Nova movement but found his true calling in Choro.  Paulinho da Viola's music revitalized Choro for a new generation, combining traditional elements with contemporary influences.  He possesses a distinctive vocal style and a masterful command of the guitar, accompanying his own songs and collaborating with other Choro virtuosos.  As a composer, Paulinho da Viola has enriched the Choro repertoire with thoughtful lyrics and innovative melodies that celebrate the genre's heritage while embracing modern sensibilities.  His dedication to preserving and reinterpreting Choro has earned him international recognition and secured his place as a leading figure in the genre's ongoing evolution.",
         "birthDate": "1942-11-12",
@@ -202,11 +213,12 @@
         "id": 12,
         "name": "Ademilde Fonseca",
         "compositions": [
-        "Pedacinhos do Céu",
-        "Brasileirinho",
+        "Noites Cariocas",
+        "Rio Antigo",
         "Implorando Cantaro",
         "Imoral"
         ],
+        "youtubelinks": ["https://www.youtube.com/watch?v=-AshCKK3ulU", "https://www.youtube.com/watch?v=IzHpVxOq9AQ"],                        
         "shortBio": "Ademilde Fonseca was a Brazilian singer known as the 'Queen of Choro.'",
         "detailedBio": "A captivating vocalist and a champion of Choro music, Ademilde Fonseca was a Brazilian singer who rose to prominence as the 'Queen of Chorinho.' Born Ademilde Fonseca Delfino in Pirituba, Rio Grande do Norte, she displayed a passion for music from a young age.  Performing in school events and local celebrations, her talent for singing and dancing captured the attention of audiences.  After marrying musician Naldimar Gedeão Delfim, the couple moved to Rio de Janeiro in 1941, opening doors to new musical opportunities.  Fonseca's career flourished in Rio's vibrant music scene.  She secured a radio contract with Rádio Tupi and collaborated with renowned Choro musicians like Pixinguinha, Jacob do Bandolim, and Waldir Azevedo.  Her powerful and expressive voice resonated with audiences, particularly when interpreting classic Choro pieces.  Fonseca excelled at conveying the emotional depth and playful spirit inherent in the genre.  Recordings like 'Tico-tico no Fubá' and 'Brasileirinho' cemented her status as a leading figure in Choro.  Throughout her career, Ademilde Fonseca released over six albums, selling more than 500,000 copies and captivating audiences with her captivating performances.  She remained active in the music scene for decades, inspiring generations of singers and leaving a lasting legacy on Choro music.",
         "birthDate": "1921-03-04",

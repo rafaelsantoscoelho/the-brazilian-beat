@@ -1,0 +1,165 @@
+{
+    "composers": [
+      {
+        "name": "Pixinguinha",
+        "tracks": [
+          {"title": "Carinhoso", "year": 1917},
+          {"title": "Rosa", "year": 1917},
+          {"title": "Lamentos", "year": 1928}
+        ]
+      },
+      {
+        "name": "Jacob do Bandolim",
+        "tracks": [
+          {"title": "Doce de Coco", "year": 1951},
+          {"title": "Noites Cariocas", "year": 1957},
+          {"title": "Assanhado", "year": 1956}
+        ]
+      },
+      {
+        "name": "Ernesto Nazareth",
+        "tracks": [
+          {"title": "Odeon", "year": 1910},
+          {"title": "Apanhei-te Cavaquinho", "year": 1914},
+          {"title": "Brejeiro", "year": 1893}
+        ]
+      },
+      {
+        "name": "Waldir Azevedo",
+        "tracks": [
+          {"title": "Brasileirinho", "year": 1947},
+          {"title": "Delicado", "year": 1950},
+          {"title": "Pedacinhos do Céu", "year": 1957}
+        ]
+      },
+      {
+        "name": "Paulinho da Viola",
+        "tracks": [
+          {"title": "Foi um Rio que Passou em Minha Vida", "year": 1970},
+          {"title": "Sinal Fechado", "year": 1969},
+          {"title": "Timoneiro", "year": 1970}
+        ]
+      },
+      {
+        "name": "Hamilton de Holanda",
+        "tracks": [
+          {"title": "Bachianinha No. 1", "year": 2002},
+          {"title": "Capricho de Espanha", "year": 2007},
+          {"title": "Carolina Carol Bela", "year": 2011}
+        ]
+      },
+      {
+        "name": "Radamés Gnattali",
+        "tracks": [
+          {"title": "Suíte Retratos", "year": 1956},
+          {"title": "Concerto para Piano e Orquestra", "year": 1947},
+          {"title": "Sinfonia Popular Nº 1", "year": 1942}
+        ]
+      },
+      {
+        "name": "Henrique Cazes",
+        "tracks": [
+          {"title": "Chorando Callado", "year": 1983},
+          {"title": "Carinhoso", "year": 1993},
+          {"title": "Receita de Samba", "year": 2005}
+        ]
+      },
+      {
+        "name": "Guerra-Peixe",
+        "tracks": [
+          {"title": "Sinfonia Nº 1", "year": 1945},
+          {"title": "Mourão", "year": 1949},
+          {"title": "Moto Contínuo", "year": 1952}
+        ]
+      },
+      {
+        "name": "Zequinha de Abreu",
+        "tracks": [
+          {"title": "Tico-Tico no Fubá", "year": 1917},
+          {"title": "Branca", "year": 1918},
+          {"title": "Tardes de Lindóia", "year": 1916}
+        ]
+      },
+      {
+        "name": "Sérgio Assad",
+        "tracks": [
+          {"title": "Aquarelle", "year": 1983},
+          {"title": "Jobiniana No. 1", "year": 1986},
+          {"title": "Fantasia Carioca", "year": 1997}
+        ]
+      },
+      {
+        "name": "Hermeto Pascoal",
+        "tracks": [
+          {"title": "Música das Nuvens e do Chão", "year": 1982},
+          {"title": "Bebê", "year": 1973},
+          {"title": "O Ovo", "year": 1976}
+        ]
+      },
+      {
+        "name": "Raphael Rabello",
+        "tracks": [
+          {"title": "Choro Pro Zé", "year": 1982},
+          {"title": "Abismo de Rosas", "year": 1991},
+          {"title": "Lamentos do Morro", "year": 1991}
+        ]
+      },
+      {
+        "name": "João Pernambuco",
+        "tracks": [
+          {"title": "Sons de Carrilhões", "year": 1920},
+          {"title": "Interrogando", "year": 1930},
+          {"title": "Graúna", "year": 1913}
+        ]
+      },
+      {
+        "name": "Marco Pereira",
+        "tracks": [
+          {"title": "Bate-Coxa", "year": 1993},
+          {"title": "Estrela da Manhã", "year": 1997},
+          {"title": "Diana", "year": 2005}
+        ]
+      },
+      {
+        "name": "Abel Ferreira",
+        "tracks": [
+          {"title": "Chorinho na Praia", "year": 1955},
+          {"title": "Vésper", "year": 1960},
+          {"title": "Doce de Coco", "year": 1951}
+        ]
+      },
+      {
+        "name": "César Camargo Mariano",
+        "tracks": [
+          {"title": "Samambaia", "year": 1981},
+          {"title": "Cristal", "year": 1983},
+          {"title": "Águas de Março", "year": 1972}
+        ]
+      },
+      {
+        "name": "Chiquinha Gonzaga",
+        "tracks": [
+          {"title": "Corta-Jaca", "year": 1895},
+          {"title": "Lua Branca", "year": 1912},
+          {"title": "Gaúcho (Corta-Jaca)", "year": 1895}
+        ]
+      },
+      {
+        "name": "Altamiro Carrilho",
+        "tracks": [
+          {"title": "Rio Antigo", "year": 1957},
+          {"title": "A Fala da Mulher", "year": 1958},
+          {"title": "Alvorada", "year": 1956}
+        ]
+      },
+      {
+        "name": "Afonso Machado",
+        "tracks": [
+          {"title": "Vibracoes", "year": 2001},
+          {"title": "Chorando na Praia", "year": 2005},
+          {"title": "Pedacinho do Céu", "year": 1995}
+        ]
+      }
+    ]
+  }
+  

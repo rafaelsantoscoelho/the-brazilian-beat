@@ -30,7 +30,7 @@ export default function InstrumentSelector({
         value={selectedCategory}
         onChange={handleCategoryChange}
       >
-        <option value="">Select Category</option>
+        <option value="keyboard">Select Category</option>
         {categoriesMap.map((category) => (
           <option key={category.id} value={category.name}>
             {category.name.charAt(0).toUpperCase() + category.name.slice(1)}
@@ -44,7 +44,7 @@ export default function InstrumentSelector({
         onChange={handleInstrumentChange}
         disabled={!selectedCategory}
       >
-        <option value="">Select Instrument</option>
+        <option value={categoriesToInstrumentsMap[selectedCategory][0]}>Select Instrument</option>
         {selectedCategory && categoriesToInstrumentsMap[selectedCategory].map((instrument) => (
           <option key={instrument} value={instrument}>
             {instrument.charAt(0).toUpperCase() + instrument.slice(1)}
